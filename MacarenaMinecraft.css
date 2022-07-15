@@ -1,0 +1,22 @@
+p
+{
+color:rgb(255, 163, 209);
+}
+
+
+
+body
+ {
+background:url("https://preview.redd.it/qigbmfa8hmb51.jpg?width=1920&format=pjpg&auto=webp&s=29d98e0b3f86d1a24be4fe4fd010288e0d090fe3");
+text-align:center;
+background-size: contain;
+}
+
+
+#minecraftcanvas
+{
+border-color: cornflowerblue;
+border-width: 5px;
+border-style: groove;
+background:url ("https://www.minecraftpocketmaps.com/wp-content/uploads/2016/12/zeph-sand-pack-11.jpg");
+}
